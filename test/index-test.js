@@ -26,7 +26,7 @@ describe('Band Component', () => {
 
 describe('Redux', () => {
 
-  
+
 });
 
 describe('Band Component with Redux', () => {
